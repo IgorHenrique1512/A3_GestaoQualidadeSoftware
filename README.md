@@ -12,3 +12,5 @@ Henrique Ruiz Poyatos Neto
 | -------------  | --- |
 | Antonio Carlos R. Oliveira Russo | ** |
 | Victor Henique Chaves De Jesus| RA 822222873|
+| Igor Henrique| RA 323210810|
+
